@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  @apply bg-primary text-primary;
+  @apply bg-secondary text-primary;
 }
 
 .rounded-div {
@@ -11,14 +11,14 @@
 }
 .dark {
   transition: 1s;
-  --color-bg-primary: #2d3748;
-  --color-bg-primary: #2d3748;
-  --color-bg-secondary: #283141;
+  --color-bg-primary: #393646;
+  --color-bg-tertiary: #848ea0;
+  --color-bg-secondary: #2b283b;
   --color-text-primary: #dbdbdb;
   --color-text-secondary: #e2e8f0;
-  --color-text-accent: #81e6d9;
+  --color-text-accent: #8c82c3;
   --color-bg-input: #4a5361;
-  --color-bg-button: #81e6d9;
+  --color-bg-button: #8c82c3;
 }
 
 .light {

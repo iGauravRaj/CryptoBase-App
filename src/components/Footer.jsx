@@ -38,7 +38,7 @@ const Footer = () => {
               <div className="py-4">
                 <form>
                   <input
-                    className="bg-primary border border-input p-2 mr-2 w-full shadow-xl rounded-2xl md:w-auto"
+                    className="bg-secondary border border-input p-2 mr-2 w-full shadow-xl rounded-2xl md:w-auto"
                     type="email"
                     placeholder="Enter your email"
                   />
